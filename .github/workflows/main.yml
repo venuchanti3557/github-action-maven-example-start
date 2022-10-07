@@ -1,5 +1,5 @@
 
-name: Maven CI/CD
+name: Maven CI/CD pipeline for building jar file and pushing into dockerhub
 
 on:
   push:
